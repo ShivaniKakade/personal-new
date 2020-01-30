@@ -10,6 +10,7 @@ body {
       min-width: 500px;
       background-color: #e0eeee;
   }
+
 .profileBody {
     display: inline-block;
     background-color: white;
@@ -17,6 +18,19 @@ body {
     margin-left: 55px;
     width: 75%;
     height: 590px;
-    
   }
- 
+
+  h1{
+    font-family: "Times New Roman", Times, serif;
+  }
+
+h2{
+  font-style:italic;
+}
+
+div {
+    width: 300px;
+    padding: 30px;
+    margin: 20px;
+  }
+
